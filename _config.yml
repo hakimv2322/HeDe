@@ -1,3 +1,2 @@
 theme: jekyll-theme-cayman
 
-{{ site.static_files }}/Height_based_Derivative.pdf
