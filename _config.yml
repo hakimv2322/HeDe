@@ -1,3 +1,12 @@
 theme: jekyll-theme-cayman
 
-</h1>{{ Height_based_Derivative.pdf }}</h1>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+  </body>
+</html>
